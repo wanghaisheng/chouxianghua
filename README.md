@@ -66,6 +66,8 @@ https://github.com/tangwan/morse
 
 ## 摩斯电码转换成阴阳符号
 
+https://github.com/wanghaisheng/yinyangshurufa
+
 ## 阴阳符号转换成声音
 
 # chouxianghua
