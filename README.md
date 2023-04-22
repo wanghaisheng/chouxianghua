@@ -55,6 +55,12 @@ https://mp.weixin.qq.com/s/ptESxPlr_rqlbwTrkKA3lw
 
 ## 中文转换成摩斯电码
 
+https://github.com/hustcc/xmorse
+
+https://github.com/franklinhu/chinese-in-morse-code
+
+
+
 ## 摩斯电码转换成声音
 https://github.com/tangwan/morse
 
