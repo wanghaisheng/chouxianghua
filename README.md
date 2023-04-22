@@ -72,6 +72,11 @@ https://github.com/wanghaisheng/yinyangshurufa
 
 ## 阴阳符号转换成声音
 
+## 转换成64卦
+
+https://github.com/wuyr/HexagramDecoder
+https://github.com/js-fun/duyijing-angular-1.x
+
 # chouxianghua
 
 [https://cxh.papapoi.com/](https://cxh.papapoi.com/)
