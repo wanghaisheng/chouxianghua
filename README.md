@@ -53,6 +53,15 @@ E就是点，即阴。
 https://mp.weixin.qq.com/s/ptESxPlr_rqlbwTrkKA3lw
 
 
+## 中文转换成摩斯电码
+
+## 摩斯电码转换成声音
+https://github.com/tangwan/morse
+
+## 摩斯电码转换成阴阳符号
+
+## 阴阳符号转换成声音
+
 # chouxianghua
 
 [https://cxh.papapoi.com/](https://cxh.papapoi.com/)
